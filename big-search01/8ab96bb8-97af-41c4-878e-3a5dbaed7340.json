@@ -1,0 +1,14 @@
+{
+    "project": "big-search01",
+    "schemaVersion": 1,
+    "caseId": "8ab96bb8-97af-41c4-878e-3a5dbaed7340",
+    "freqBins": [162427831],
+    "freqHz": 162425000,
+    "modulation": "NBFM",
+    "name": "NOAA Weather Radio WNG655",
+    "note": "Mt. Diablo",
+    "obsFirstEpochTime": 1756836249,
+    "obsLastEpochTime": 1758323463,
+    "obsSite": "vallejo1",
+    "samples": []
+}

@@ -1,0 +1,14 @@
+{
+    "project": "big-search01",
+    "schemaVersion": 1,
+    "caseId": "28c9428f-0306-4c93-926a-b6f5ddf326d0",
+    "freqBins": [500003815],
+    "freqHz": 500000000,
+    "modulation": "unknown",
+    "name": "interference",
+    "note": "harmonic of 125 MHz ethernet interference",
+    "obsFirstEpochTime": 1756836249,
+    "obsLastEpochTime": 1758323463,
+    "obsSite": "vallejo1",
+    "samples": []
+}
