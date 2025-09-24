@@ -2,13 +2,18 @@
     "project": "big-search01",
     "schemaVersion": 1,
     "caseId": "2d8c84b7-b166-46bd-af72-97dd908583ac",
-    "freqBins": [407541269, 407546733, 407552197, 407557660],
+    "freqBins": [
+        407541269,
+        407546733,
+        407552197,
+        407557660
+    ],
     "freqHz": 407500000,
     "modulation": "unknown data",
     "name": "continuous unknown data",
     "note": "noNote",
     "obsFirstEpochTime": 1756836072,
-    "obsLastEpochTime": 1758582662,
+    "obsLastEpochTime": 1758669062,
     "obsSite": "vallejo1",
     "samples": []
 }

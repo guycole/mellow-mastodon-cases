@@ -14,7 +14,7 @@
     "name": "interference",
     "note": "harmonic of 125 MHz ethernet interference",
     "obsFirstEpochTime": 1756836072,
-    "obsLastEpochTime": 1758570606,
+    "obsLastEpochTime": 1758653045,
     "obsSite": "vallejo1",
     "samples": []
 }
