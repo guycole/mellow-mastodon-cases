@@ -2,13 +2,11 @@
     "project": "big-search01",
     "schemaVersion": 1,
     "caseId": "fff26b79-e96a-4177-b9f0-ee31deda74e2",
-    "freqBins": [
-        464325718
-    ],
-    "freqHz": 464325718,
+    "freqBins": [46432025, 464325718],
+    "freqHz": 464300000,
     "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
+    "name": "unknown beacon",
+    "note": "constant six revs and silent, occasional data",
     "obsFirstEpochTime": 1756836485,
     "obsLastEpochTime": 1758582662,
     "obsSite": "vallejo1",

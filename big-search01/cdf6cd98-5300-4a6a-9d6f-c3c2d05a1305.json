@@ -2,13 +2,11 @@
     "project": "big-search01",
     "schemaVersion": 1,
     "caseId": "cdf6cd98-5300-4a6a-9d6f-c3c2d05a1305",
-    "freqBins": [
-        858762643
-    ],
-    "freqHz": 858762643,
-    "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
+    "freqBins": [858757180, 858762643, 858768107],
+    "freqHz": 858762500,
+    "modulation": "NBFM",
+    "name": "CalTrans District 4 (Oakland)",
+    "note": "Channel P",
     "obsFirstEpochTime": 1756836072,
     "obsLastEpochTime": 1758581529,
     "obsSite": "vallejo1",
