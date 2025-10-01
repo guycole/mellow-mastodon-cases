@@ -5,9 +5,9 @@
     "freqBins": [
         124099830
     ],
-    "freqHz": 124099830,
-    "modulation": "unknown",
-    "name": "unknown",
+    "freqHz": 124100000,
+    "modulation": "AM",
+    "name": "KRDD ATIS",
     "note": "noNote",
     "obsFirstEpochTime": 1756745192,
     "obsLastEpochTime": 1759187469,
