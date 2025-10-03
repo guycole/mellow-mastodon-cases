@@ -3,14 +3,16 @@
     "schemaVersion": 1,
     "caseId": "806fb770-bde5-43f4-868c-7b2be16e1c78",
     "freqBins": [
-        931156943
+        931156943,
+        931162406,
+        931167870
     ],
-    "freqHz": 931156943,
+    "freqHz": 931162500,
     "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
+    "name": "unknown pager",
+    "note": "unkknown pager system, digital?",
     "obsFirstEpochTime": 1756838102,
-    "obsLastEpochTime": 1759187410,
+    "obsLastEpochTime": 1759446663,
     "obsSite": "vallejo1",
     "samples": []
 }

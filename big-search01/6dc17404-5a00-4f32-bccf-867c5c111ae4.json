@@ -5,10 +5,10 @@
     "freqBins": [
         333338478
     ],
-    "freqHz": 333338478,
+    "freqHz": 333350000,
     "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
+    "name": "interference",
+    "note": "RTL-SDR shows strong, constant emitter but not heard on scanner",
     "obsFirstEpochTime": 1756846565,
     "obsLastEpochTime": 1758383169,
     "obsSite": "vallejo1",
