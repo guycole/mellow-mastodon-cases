@@ -11,8 +11,8 @@
     "modulation": "NBFM",
     "name": "Solano County Sheriff SO1",
     "note": "primary dispatch KMA760",
-    "obsFirstEpochTime": 1756836072,
-    "obsLastEpochTime": 1759444863,
+    "obsFirstEpochTime": 1756836792,
+    "obsLastEpochTime": 1762554490,
     "obsSite": "vallejo1",
     "samples": []
 }

@@ -1,0 +1,16 @@
+{
+    "project": "big-search01",
+    "schemaVersion": 1,
+    "caseId": "1d2f41bf-2d1a-4b23-8ea6-0420f9a22b62",
+    "freqBins": [
+        155133764
+    ],
+    "freqHz": 155133764,
+    "modulation": "unknown",
+    "name": "unknown",
+    "note": "noNote",
+    "obsFirstEpochTime": 1756745256,
+    "obsLastEpochTime": 1762555987,
+    "obsSite": "anderson1",
+    "samples": []
+}
