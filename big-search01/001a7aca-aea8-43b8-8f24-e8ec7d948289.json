@@ -3,14 +3,15 @@
     "schemaVersion": 1,
     "caseId": "001a7aca-aea8-43b8-8f24-e8ec7d948289",
     "freqBins": [
-        374999349
+        374999349,
+        375004812
     ],
-    "freqHz": 374999349,
+    "freqHz": 375000000,
     "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
+    "name": "interference",
+    "note": "harmonic of 125 MHz",
     "obsFirstEpochTime": 1756836072,
-    "obsLastEpochTime": 1758669062,
+    "obsLastEpochTime": 1763075463,
     "obsSite": "vallejo1",
     "samples": []
 }

@@ -5,12 +5,12 @@
     "freqBins": [
         353499608
     ],
-    "freqHz": 353499608,
-    "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
+    "freqHz": 353500000,
+    "modulation": "AM",
+    "name": "Oakland ARTCC Mt. Tamalpais",
+    "note": "military copy of 127.8 MHz",
     "obsFirstEpochTime": 1756836125,
-    "obsLastEpochTime": 1758668956,
+    "obsLastEpochTime": 1763075409,
     "obsSite": "vallejo1",
     "samples": []
 }

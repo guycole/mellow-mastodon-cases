@@ -3,14 +3,16 @@
     "schemaVersion": 1,
     "caseId": "5ec71693-1d9c-44bb-a466-dfd1634c405c",
     "freqBins": [
-        155488906
+        155483442,
+        155488906,
+        155494369
     ],
     "freqHz": 155488906,
-    "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
-    "obsFirstEpochTime": 1756836072,
-    "obsLastEpochTime": 1758669062,
+    "modulation": "NBFM",
+    "name": "Solano County Sheriff SO1",
+    "note": "primary dispatch KMA760",
+    "obsFirstEpochTime": 1756836792,
+    "obsLastEpochTime": 1763075286,
     "obsSite": "vallejo1",
     "samples": []
 }

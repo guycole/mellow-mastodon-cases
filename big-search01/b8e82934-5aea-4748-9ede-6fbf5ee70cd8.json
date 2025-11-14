@@ -5,12 +5,12 @@
     "freqBins": [
         162548033
     ],
-    "freqHz": 162548033,
-    "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
+    "freqHz": 162550000,
+    "modulation": "NBFM",
+    "name": "NOAA Weather Radio WXL88",
+    "note": "South Fork Mountain",
     "obsFirstEpochTime": 1756745192,
-    "obsLastEpochTime": 1758640627,
+    "obsLastEpochTime": 1763075466,
     "obsSite": "anderson1",
     "samples": []
 }

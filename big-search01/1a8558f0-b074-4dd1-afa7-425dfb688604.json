@@ -5,12 +5,12 @@
     "freqBins": [
         406912941
     ],
-    "freqHz": 406912941,
+    "freqHz": 406912500,
     "modulation": "unknown",
-    "name": "unknown",
-    "note": "noNote",
+    "name": "unknown constant emitter",
+    "note": "harmonic?  freq is allocated for SAR",
     "obsFirstEpochTime": 1756836072,
-    "obsLastEpochTime": 1758669062,
+    "obsLastEpochTime": 1763075409,
     "obsSite": "vallejo1",
     "samples": []
 }
