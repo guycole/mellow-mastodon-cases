@@ -10,7 +10,7 @@
     "name": "interference",
     "note": "RTL-SDR shows strong, constant emitter but not heard on scanner",
     "obsFirstEpochTime": 1756836072,
-    "obsLastEpochTime": 1763161862,
+    "obsLastEpochTime": 1763507463,
     "obsSite": "vallejo1",
     "samples": []
 }
